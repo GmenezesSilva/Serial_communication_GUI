@@ -1,0 +1,11 @@
+D:\FATEC\7- Setimo Semestre\3 - Microcontroladores II\Relatórios e projetos\Exp.5 - GUI\GUI\GUI\bin\Debug\GUI.exe.config
+D:\FATEC\7- Setimo Semestre\3 - Microcontroladores II\Relatórios e projetos\Exp.5 - GUI\GUI\GUI\bin\Debug\GUI.exe
+D:\FATEC\7- Setimo Semestre\3 - Microcontroladores II\Relatórios e projetos\Exp.5 - GUI\GUI\GUI\bin\Debug\GUI.pdb
+D:\FATEC\7- Setimo Semestre\3 - Microcontroladores II\Relatórios e projetos\Exp.5 - GUI\GUI\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\FATEC\7- Setimo Semestre\3 - Microcontroladores II\Relatórios e projetos\Exp.5 - GUI\GUI\GUI\obj\Debug\GUI.ControlCenter.resources
+D:\FATEC\7- Setimo Semestre\3 - Microcontroladores II\Relatórios e projetos\Exp.5 - GUI\GUI\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\FATEC\7- Setimo Semestre\3 - Microcontroladores II\Relatórios e projetos\Exp.5 - GUI\GUI\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\FATEC\7- Setimo Semestre\3 - Microcontroladores II\Relatórios e projetos\Exp.5 - GUI\GUI\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\FATEC\7- Setimo Semestre\3 - Microcontroladores II\Relatórios e projetos\Exp.5 - GUI\GUI\GUI\obj\Debug\GUI.exe
+D:\FATEC\7- Setimo Semestre\3 - Microcontroladores II\Relatórios e projetos\Exp.5 - GUI\GUI\GUI\obj\Debug\GUI.pdb
+D:\FATEC\7- Setimo Semestre\3 - Microcontroladores II\Relatórios e projetos\Exp.5 - GUI\GUI\GUI\obj\Debug\GUI.csproj.SuggestedBindingRedirects.cache
